@@ -1,0 +1,6 @@
+[submodule "turbin3-pre-req_1"]
+	path = turbin3-pre-req_1
+	url = https://github.com/Scienceboii/solana-test.git
+[submodule "turbin3-pre-req_2"]
+	path = turbin3-pre-req_2
+	url = https://github.com/Scienceboii/solana-task2.git
